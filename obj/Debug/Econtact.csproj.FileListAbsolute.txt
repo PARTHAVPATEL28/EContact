@@ -1,0 +1,10 @@
+C:\Users\parthavp\source\repos\Econtent\bin\Debug\Econtent.exe.config
+C:\Users\parthavp\source\repos\Econtent\bin\Debug\Econtent.exe
+C:\Users\parthavp\source\repos\Econtent\bin\Debug\Econtent.pdb
+C:\Users\parthavp\source\repos\Econtent\obj\Debug\Econtact.csprojAssemblyReference.cache
+C:\Users\parthavp\source\repos\Econtent\obj\Debug\Econtent.Econtact.resources
+C:\Users\parthavp\source\repos\Econtent\obj\Debug\Econtent.Properties.Resources.resources
+C:\Users\parthavp\source\repos\Econtent\obj\Debug\Econtact.csproj.GenerateResource.cache
+C:\Users\parthavp\source\repos\Econtent\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+C:\Users\parthavp\source\repos\Econtent\obj\Debug\Econtent.exe
+C:\Users\parthavp\source\repos\Econtent\obj\Debug\Econtent.pdb
